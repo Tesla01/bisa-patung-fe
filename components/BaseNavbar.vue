@@ -8,35 +8,29 @@
         <nuxt-link
           class="text-white hover:text-teal-500 text-lg px-4 py-3"
           to="/"
-        >Home</nuxt-link
+          >Home</nuxt-link
         >
       </li>
       <li>
-        <a
-          class="text-white hover:text-teal-500 text-lg px-4 py-3"
-          href="#"
-        >Project</a
+        <a class="text-white hover:text-teal-500 text-lg px-4 py-3" href="#"
+          >Project</a
         >
       </li>
       <li>
-        <a
-          class="text-white hover:text-teal-500 text-lg px-4 py-3"
-          href="#"
-        >Features</a
+        <a class="text-white hover:text-teal-500 text-lg px-4 py-3" href="#"
+          >Features</a
         >
       </li>
       <li>
-        <a
-          class="text-white hover:text-teal-500 text-lg px-4 py-3"
-          href="#"
-        >Success Stories</a
+        <a class="text-white hover:text-teal-500 text-lg px-4 py-3" href="#"
+          >Success Stories</a
         >
       </li>
     </ul>
     <ul class="flex ml-auto items-center mt-2">
       <li>
         <nuxt-link
-            to="/register"
+          to="/register"
           class="inline-block bg-transparent border-white border hover:bg-white hover:bg-opacity-25 text-white font-light w-40 text-center px-6 py-1 text-lg rounded-full mr-4"
         >
           Sign Up
